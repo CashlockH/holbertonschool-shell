@@ -1,2 +1,2 @@
 #!/bin/bash
-export var PATH=/action:$PATH
+export var PATH=$PATH:/action
