@@ -1,2 +1,1 @@
-#!/bin/bash
-ajshfksdhgagsgjhgasdgasjhgdjagda
+This repo holds shell tasks
